@@ -1,0 +1,9 @@
+#SampleID	MouseID	Organ	Location	Genotype
+KD673	WT1	Fecal	Fecal	StopFlox
+KD674	WT2	Fecal	Fecal	StopFlox
+KD675	WT3	Fecal	Fecal	StopFlox
+KD676	WT4	Fecal	Fecal	StopFlox
+KD677	KO1	Fecal	Fecal	StopdIEC
+KD678	KO2	Fecal	Fecal	StopdIEC
+KD679	KO3	Fecal	Fecal	StopdIEC
+KD680	KO4	Fecal	Fecal	StopdIEC
